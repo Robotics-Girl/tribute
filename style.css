@@ -5,45 +5,20 @@ body {
 
 h1 {
     color: rgb(0, 0, 0);
-    text-align: center;
+    text-align: left;
     font-size: 5em;
     margin-top: 20px;
 }
 
 h2 {
     color: rgb(0, 0, 0);
-    text-align: center;
-    font-size: 4em;
+    text-align: right;
+    font-size: 5em;
     margin-top: 20px;
 }
-
 p {
     color: rgb(0, 0, 0);
-    text-align: center;
-    font-size: 2em;
-    margin: 20px;
-
-    text-indent: 25px;
-}
-
-
-.row {
-  display: flex;
-}
-
-.column {
-  flex: 33.33%;
-  padding: 5px;
-}
-
-
-.img-right {
-    float: right;
-    margin-left: 20px;
-    width: 300px;
-}
-
-hr {
-    border: 1px solid rgb(0, 0, 0);
-    margin: 20px;
+    text-align: right;
+    font-size: 4em;
+    margin-top: 20px;
 }
